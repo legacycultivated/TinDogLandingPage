@@ -1,4 +1,4 @@
-# TinDog Landing PAge
+# TinDog Landing Page
 
 ## Overview
 
